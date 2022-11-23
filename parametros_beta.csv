@@ -1,2 +1,2 @@
-beta_desalavancado;divida_liquida;valor_mercado;risk_free;equity_risk_premium;country_risk_premium;rating;cpi;ipca
-0,75;4953,951;19774,4;2,67;7,63;2,91;0,69;9,1;12,48
+beta_desalavancado;risk_free;equity_risk_premium;country_risk_premium;rating;cpi;ipca
+0,75;2,67;7,63;2,91;0,69;9,1;12,48
